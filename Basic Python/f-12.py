@@ -10,5 +10,4 @@ def odd_even(number):
 lst=[i for i in range(0,10)]
 print(list(map(odd_even,lst)))
 
-
 # print(list(filter(odd_even,lst)))
