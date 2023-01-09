@@ -17,6 +17,3 @@ a.next=b
 
 print(a.data)
 print(b.data,a.next.data)
-
-
-    

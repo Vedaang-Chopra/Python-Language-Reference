@@ -21,6 +21,9 @@ print(squared_array)
 
 
 #  Use of yield keyword, creates a generator
+#  Yield keyword: - Used to create generator function
+#  The generator is used in case of scale data. It is used to return data without using additional list.
+# Example: -
 def square_numbers_generator(nums:list):
     for i in nums:
         yield (i*i)
