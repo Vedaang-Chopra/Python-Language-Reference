@@ -1,7 +1,7 @@
- #  Class Atrributes: Set of variables holding data.
+#  Class Atrributes: Set of variables holding data.
         #  They always lie within the class, so can only be reffered from class or object. They are variables but only for classes
         #  There are two types, class and Instance atrributes.
-       
+        
 class Expense_Tracker:
     #  Docstring: - Description of class
     '''

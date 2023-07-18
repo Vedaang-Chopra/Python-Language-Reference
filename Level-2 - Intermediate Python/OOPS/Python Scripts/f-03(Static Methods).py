@@ -18,7 +18,7 @@ class Expense_Tracker:
     #  Self has to be a parameter, always for instance method
     def get_opening_balance(self):
         return self.opopening_balance
-     
+
 
 #  Creating an object, from class 
 Home_Tracker=Expense_Tracker('home',3000, 5000)
